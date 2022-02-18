@@ -6,7 +6,8 @@ import 'features/splash/presentation/splash_view.dart';
 void main() {
   runApp(const FruitsMarket());
 }
-
+//test
+int x = 0 ;
 class FruitsMarket extends StatelessWidget {
   const FruitsMarket({Key? key}) : super(key: key);
 
